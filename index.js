@@ -147,7 +147,7 @@ client.on('message', function (message) {
       .setTitle('Info')
       .setAuthor('Purge Bot', 'https://i.imgur.com/Cy4pnDN.png')
       .addFields(
-        { name: 'Bot version:', value: '1.0.4 (v119)' },
+        { name: 'Bot version:', value: '1.0.5' },
         { name: 'discord.js version:', value: '12.2.0 (stable)' },
         { name: 'Created by:', value: 'Owen Sullivan: https://sulliops.co' },
         { name: 'Commands list:', value: `Use \`${prefix} commands\`` },
